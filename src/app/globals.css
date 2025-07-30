@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+:root {
+}
+
+@theme inline {
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+  }
+}
+
+body {
+  background: #f7f2e7;
+  font-family: "Noto Serif", Arial, sans-serif;
+  font-size: 14px;
+}
+
+.container {
+  width: 100%;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.isFixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background-color: #dedad0;
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: none;
+    padding: 0 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 738px;
+    width: 738px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 970px;
+    width: 970px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1040px;
+    width: 1040px;
+  }
+}
