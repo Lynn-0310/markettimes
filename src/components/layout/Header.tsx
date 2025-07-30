@@ -5,7 +5,7 @@ import MenuHeader from "./MenuHeader";
 
 export default function Header() {
 
-     
+
 
      const menuHeader = [
           { name: "Trang chủ", slug: '/' },
@@ -33,7 +33,7 @@ export default function Header() {
                     </div>
                </div>
 
-               <div className="max-[1024px]:fixed max-[1024px]:w-full max-[1024px]:top-0 max-[1024px]:left-0 max-[1024px]:z-10 max-[1024px]:bg-[#f7f2e7] lg:shadow-[0_4px_12px_rgba(0,0,0,0.1)]" >
+               <div className="max-[1024px]:fixed max-[1024px]:w-full max-[1024px]:top-0 max-[1024px]:left-0 max-[1024px]:z-10 max-[1024px]:bg-[#f7f2e7] shadow-[0_4px_12px_rgba(0,0,0,0.1)]" >
                     <div className="container">
                          <div className="flex lg:justify-around lg:h-[110px] lg:pt-[21px] h-[100px] justify-between align-center items-center pt-[20px] ">
                               <IconHamburger />
@@ -58,7 +58,7 @@ export default function Header() {
                </div>
 
                <MenuHeader menuHeader={menuHeader} />
-               
+
           </>
      )
 }
