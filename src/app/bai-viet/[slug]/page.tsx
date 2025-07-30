@@ -23,7 +23,7 @@ const allArticles = [
 
         Phát biểu tại buổi tổng kết, ông Nguyễn Tiến Thỏa – Chủ tịch Hội Thẩm định giá Việt Nam, nguyên Cục trưởng Cục Quản lý giá (Bộ Tài chính) – đã ghi nhận và đánh giá cao tinh thần học tập nghiêm túc của học viên cũng như sự nhiệt tình, trách nhiệm của các giảng viên. Ông cho biết, toàn bộ nội dung cập nhật đã bám sát quy định hiện hành, giúp các thẩm định viên củng cố kiến thức và nâng cao kỹ năng nghề nghiệp trong bối cảnh thị trường liên tục biến động.
 
-        ![Hình ảnh lễ tổng kết](https://via.placeholder.com/600x400?text=Ceremony+Image)
+        ![Hình ảnh lễ tổng kết]
 
         Các học viên được cấp Giấy xác nhận hoàn thành khóa cập nhật kiến thức nghiệp vụ thẩm định giá.
 
@@ -49,7 +49,7 @@ const allArticles = [
 
         Phát biểu tại buổi tổng kết, ông Nguyễn Tiến Thỏa – Chủ tịch Hội Thẩm định giá Việt Nam, nguyên Cục trưởng Cục Quản lý giá (Bộ Tài chính) – đã ghi nhận và đánh giá cao tinh thần học tập nghiêm túc của học viên cũng như sự nhiệt tình, trách nhiệm của các giảng viên. Ông cho biết, toàn bộ nội dung cập nhật đã bám sát quy định hiện hành, giúp các thẩm định viên củng cố kiến thức và nâng cao kỹ năng nghề nghiệp trong bối cảnh thị trường liên tục biến động.
 
-        ![Hình ảnh lễ tổng kết](https://via.placeholder.com/600x400?text=Ceremony+Image)
+        ![Hình ảnh lễ tổng kết]
 
         Các học viên được cấp Giấy xác nhận hoàn thành khóa cập nhật kiến thức nghiệp vụ thẩm định giá.
 
